@@ -1,0 +1,3 @@
+https://medium.com/@hadi.a.morrow/magic-the-gathering-in-natural-language-processing-why-count-vectorizing-is-important-a4916f349789
+https://towardsdatascience.com/artificial-intelligence-in-magic-the-gathering-4367e88aee11
+https://towardsdatascience.com/finding-magic-the-gathering-archetypes-with-latent-dirichlet-allocation-729112d324a6
